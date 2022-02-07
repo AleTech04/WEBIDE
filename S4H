@@ -1,0 +1,12 @@
+Description=S4H
+Type=HTTP
+TrustAll=true
+Authentication=BasicAuthentication
+User=AORLANDO
+Password=
+Name=S4H
+ProxyType=OnPremise
+URL=https\://sap-s4h-ia1.labs.techedge.corp:44300
+WebIDEUsage=odata_abap,ui5_execute_abap,dev_abap,bsp_execute_abap
+WebIDESystem=S4H
+WebIDEEnabled=true
